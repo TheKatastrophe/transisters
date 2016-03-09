@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Wendy Carlos",
+        "id": "wendy-carlos",
+        "links": [
+            {
+                "title": "Website",
+                "link": "http://wendycarlos.com",
+                "icon": "globe"
+            },
+            {
+                "title": "Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Wendy_Carlos",
+                "icon": "wikipedia-w"
+            }
+        ],
+        "description": "Wendy Carlos is a pioneer of of electronic music, and gave us the soundtrack to the 20th century."
+    },
+    {
+        "name": "Sophie Wilson",
+        "id": "sophie-wilson",
+        "links": [
+            {
+                "title": "Website",
+                "link": "http://www.sophie.org.uk/",
+                "icon": "globe"
+            },
+            {
+                "title": "Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Sophie_Wilson",
+                "icon": "wikipedia-w"
+            }
+        ],
+        "description": "Sophie Wilson designed the Acorn Microcomputer and the BBC BASIC language it ran on. She later went on to design the ARM processor that powers most modern phones, tablets and embedded devices.",
+        "image": "images/sophie_wilson.jpg",
+        "image_credit": "Jussi Mononen (CC BY 2.0)"
+    }
+]
